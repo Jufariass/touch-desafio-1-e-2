@@ -1,0 +1,9 @@
+Cidade1,10000,20000
+Cidade2,20001,30000
+Cidade3,30001,40000
+--
+Cidade1,Cidade2,10
+Cidade2,Cidade3,20
+Cidade1,Cidade3,30
+--
+Cidade1,Cidade3
